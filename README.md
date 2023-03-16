@@ -1,2 +1,1 @@
 # React Artistique
-# react-artistique
